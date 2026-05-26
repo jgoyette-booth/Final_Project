@@ -4,7 +4,7 @@ James Goyette, Jhumi Parimal, Elizabeth Sun
 
 3 files. Deck, main jupyter notebook and the SQL file. The SQL portion was completely seperated from the main file but goes in #5 on the main file for continuity purposes. 
 
-U.S. Personal Savings Rate Analysis — Post-COVID Macro Study
+U.S. Personal Savings Rate Analysis: Post-COVID Macro Study
 
 Overview
 This project analyzes how U.S. personal savings rates have shifted since the COVID-19 pandemic and identifies which macroeconomic conditions are most associated with Americans saving more or less. The analysis is designed for everyday consumers and personal finance advisors, no economics background required.
