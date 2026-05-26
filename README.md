@@ -1,5 +1,7 @@
 # Final_Project
 
+James Goyette, Jhumi Parimal, Elizabeth Sun
+
 3 files. Deck, main jupyter notebook and the SQL file. The SQL portion was completely seperated from the main file but goes in #5 on the main file for continuity purposes. 
 
 U.S. Personal Savings Rate Analysis — Post-COVID Macro Study
@@ -34,3 +36,5 @@ Recommendations
 Treat 3–5% as the realistic post-COVID savings baseline, not the pre-pandemic 6–8%
 Monitor CPI/PCE, revolving credit growth, and consumer sentiment as early-warning indicators
 Advisors should initiate savings conversations when sentiment drops, that's when clients are most receptive
+
+We used GenAI (specifically ChatGPT) to do a lot of our heavy lifting for coding. The primary use was to provide functions or outputs that we wanted and to return code that could be directly used in our file. Secondary uses included helping us interpret error messages, debugging those errors, and suggesting alternative functions or approaches that might improve our EDA. Finally, in some cases where we were unsure how to interpret the data (we are not economists), ChatGPT was used to provide a brief explanation of how to understand certain data points and their economic meaning.
